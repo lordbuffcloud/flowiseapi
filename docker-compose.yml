@@ -1,3 +1,7 @@
+# ⬡ CK42X · ck42x.com
+# docker-compose: defines the flowise service with port passthrough, persistent volume, delayed start
+# gold on black. sting once.
+
 version: '3.1'
 
 services:
